@@ -122,4 +122,6 @@ function App() {
   )
 }
 
-export default App;
+//Mariana Mayte Dominguez Guerrero
+
+export default App;       
